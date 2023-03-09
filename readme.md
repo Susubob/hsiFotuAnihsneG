@@ -129,4 +129,18 @@ Opt:在游标处于端点时提高识别准确度
 Opt:识别参数调整  
 测试一下
 
+达瓦的撒到我
+圣诞袜圣诞袜
+是的哇对我阿达瓦sd a是
+ad我
 
+dwa sd哇
+sdw啊
+d
+我asd wa是的
+w as的
+wawd adwdadasdw a我
+啊
+wda wd啊
+啊
+阿萨
