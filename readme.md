@@ -128,23 +128,4 @@ Opt:性能提升
 Opt:在游标处于端点时提高识别准确度  
 Opt:识别参数调整  
 测试一下
-挖的是的阿斯顿阿斯顿阿斯顿阿三倒萨倒萨阿萨as
-撒大撒大撒打赏打赏ass啊sda
-啊实打实的啊 asds fsdasd
- asd 
- asd asdsasf asf
- as 
- af
-  as
-  f a
-  sf
-   asf
-   a 
-   fa
-   s f
-   as 
-   fa
-    f
-    afsa 
-    
-    as
+
