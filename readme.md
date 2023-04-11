@@ -194,3 +194,4 @@ Opt:性能提升
 Opt:在游标处于端点时提高识别准确度  
 Opt:识别参数调整  
 测试一下
+[#] Thank you for the chest json GodWil
